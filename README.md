@@ -6,6 +6,7 @@
 * 🔗 **Documentation:**
 
   * [Documentation](https://mega.nz/file/WzJy1ZLD#2pJ6mQiEElLUnKCu-flPkcffPyC5ak58fCLaydw4Kjw) – Compiled Documentations from 7-Days-DevOps Project Series.
+  * 📝 **Blog Post** – [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)  
  
 
 <!-- Blog Article – uncomment & replace when published 
